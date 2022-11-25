@@ -7,9 +7,9 @@
 // 23432 -> да
 
 Console.WriteLine("Введите пятизначное число: ");
-string number =Console.ReadLine();
+string arr =Console.ReadLine();
 
-if (number[0]==number[4]&&number[1]==number[3])
+if (arr[0]==arr[4]&&arr[1]==arr[3])
 {
     Console.WriteLine("Введенное число - палиндром");
 }
