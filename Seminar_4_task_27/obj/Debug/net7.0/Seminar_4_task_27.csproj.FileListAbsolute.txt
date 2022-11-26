@@ -1,0 +1,15 @@
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\bin\Debug\net7.0\Seminar_4_task_27.exe
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\bin\Debug\net7.0\Seminar_4_task_27.deps.json
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\bin\Debug\net7.0\Seminar_4_task_27.runtimeconfig.json
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\bin\Debug\net7.0\Seminar_4_task_27.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\bin\Debug\net7.0\Seminar_4_task_27.pdb
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.csproj.AssemblyReference.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.AssemblyInfoInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.AssemblyInfo.cs
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.csproj.CoreCompileInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\refint\Seminar_4_task_27.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.pdb
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\Seminar_4_task_27.genruntimeconfig.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Seminar_4_task_27\obj\Debug\net7.0\ref\Seminar_4_task_27.dll
