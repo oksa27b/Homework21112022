@@ -1,0 +1,15 @@
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.csproj.AssemblyReference.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.AssemblyInfoInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.AssemblyInfo.cs
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.csproj.CoreCompileInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\bin\Debug\net7.0\Semnar_3_task_23.exe
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\bin\Debug\net7.0\Semnar_3_task_23.deps.json
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\bin\Debug\net7.0\Semnar_3_task_23.runtimeconfig.json
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\bin\Debug\net7.0\Semnar_3_task_23.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\bin\Debug\net7.0\Semnar_3_task_23.pdb
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\refint\Semnar_3_task_23.dll
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.pdb
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\Semnar_3_task_23.genruntimeconfig.cache
+D:\3. Знакомство с языками программирования\Семинар\ДЗ\Homework\Semnar_3_task_23\obj\Debug\net7.0\ref\Semnar_3_task_23.dll
