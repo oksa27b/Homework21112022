@@ -13,7 +13,7 @@ int B = Convert.ToInt32(Console.ReadLine());
 double Power(double num1, int num2)
 {
     double result = 1;
-    for (int i = 0; i <= num2; i++)
+    for (int i = 0; i < num2; i++)
     {
         result *=num1;
     }
